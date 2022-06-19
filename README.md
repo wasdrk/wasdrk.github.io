@@ -1,2 +1,4 @@
-# wasdrk.github.io
-Repositorio para projeto de webdev
+# Projeto kronos
+Neste projeto tenho a intenção
+de desenvolver minhas abilidades
+em HTML e CSS!!
